@@ -1,0 +1,468 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Mipatriaviejabarranquillera.com" resolutions="1x" timestamp="1748015602481">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_interior.css" crc="457356710" ref="lugares-historicos:fauna-y-flora:simbolos-patrios:actualidad:gracias:historia:contacto:arte-cultural:gastronomía:arquitectura:música:indenpendencia:carnaval:geografía"/>
+    <file name="master_a-p_g_-maestra.css" crc="4028156710" ref="index"/>
+    <file name="lugares-historicos.css" crc="3854721283" ref="lugares-historicos"/>
+    <file name="fauna-y-flora.css" crc="141424927" ref="fauna-y-flora"/>
+    <file name="simbolos-patrios.css" crc="423543245" ref="simbolos-patrios"/>
+    <file name="actualidad.css" crc="255889420" ref="actualidad"/>
+    <file name="gracias.css" crc="207381333" ref="gracias"/>
+    <file name="index.css" crc="3792602470" ref="index"/>
+    <file name="historia.css" crc="109955261" ref="historia"/>
+    <file name="contacto.css" crc="33299255" ref="contacto"/>
+    <file name="arte-cultural.css" crc="4285092268" ref="arte-cultural"/>
+    <file name="gastronom_a.css" crc="3794284888" ref="gastronomía"/>
+    <file name="arquitectura.css" crc="222156155" ref="arquitectura"/>
+    <file name="m_sica.css" crc="3995024704" ref="música"/>
+    <file name="indenpendencia.css" crc="489730426" ref="indenpendencia"/>
+    <file name="carnaval.css" crc="192894657" ref="carnaval"/>
+    <file name="geograf_a.css" crc="10317910" ref="geografía"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>simbolos-patrios:phone>historia:phone>indenpendencia:phone>actualidad:phone>arte-cultural:phone>música:phone>carnaval:phone>fauna-y-flora:phone>geografía:phone>arquitectura:phone>lugares-historicos:phone>gastronomía:phone>contacto:phone>gracias:tablet>index:tablet>simbolos-patrios:tablet>historia:tablet>indenpendencia:tablet>actualidad:tablet>arte-cultural:tablet>música:tablet>carnaval:tablet>fauna-y-flora:tablet>geografía:tablet>arquitectura:tablet>lugares-historicos:tablet>gastronomía:tablet>contacto:tablet>gracias:index:historia:indenpendencia:contacto:actualidad:arte-cultural:gastronomía:música:carnaval:arquitectura:lugares-historicos:fauna-y-flora:simbolos-patrios:geografía:gracias"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>simbolos-patrios:phone>historia:phone>indenpendencia:phone>actualidad:phone>arte-cultural:phone>música:phone>carnaval:phone>fauna-y-flora:phone>geografía:phone>arquitectura:phone>lugares-historicos:phone>gastronomía:phone>contacto:phone>gracias:tablet>index:tablet>simbolos-patrios:tablet>historia:tablet>indenpendencia:tablet>actualidad:tablet>arte-cultural:tablet>música:tablet>carnaval:tablet>fauna-y-flora:tablet>geografía:tablet>arquitectura:tablet>lugares-historicos:tablet>gastronomía:tablet>contacto:tablet>gracias:index:historia:indenpendencia:contacto:actualidad:arte-cultural:gastronomía:música:carnaval:arquitectura:lugares-historicos:fauna-y-flora:simbolos-patrios:geografía:gracias"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>simbolos-patrios:phone>historia:phone>indenpendencia:phone>actualidad:phone>arte-cultural:phone>música:phone>carnaval:phone>fauna-y-flora:phone>geografía:phone>arquitectura:phone>lugares-historicos:phone>gastronomía:phone>contacto:phone>gracias:tablet>index:tablet>simbolos-patrios:tablet>historia:tablet>indenpendencia:tablet>actualidad:tablet>arte-cultural:tablet>música:tablet>carnaval:tablet>fauna-y-flora:tablet>geografía:tablet>arquitectura:tablet>lugares-historicos:tablet>gastronomía:tablet>contacto:tablet>gracias:index:historia:indenpendencia:contacto:actualidad:arte-cultural:gastronomía:música:carnaval:arquitectura:lugares-historicos:fauna-y-flora:simbolos-patrios:geografía:gracias"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>simbolos-patrios:phone>historia:phone>indenpendencia:phone>actualidad:phone>arte-cultural:phone>música:phone>carnaval:phone>fauna-y-flora:phone>geografía:phone>arquitectura:phone>lugares-historicos:phone>gastronomía:phone>contacto:phone>gracias:tablet>index:tablet>simbolos-patrios:tablet>historia:tablet>indenpendencia:tablet>actualidad:tablet>arte-cultural:tablet>música:tablet>carnaval:tablet>fauna-y-flora:tablet>geografía:tablet>arquitectura:tablet>lugares-historicos:tablet>gastronomía:tablet>contacto:tablet>gracias:index:historia:indenpendencia:contacto:actualidad:arte-cultural:gastronomía:música:carnaval:arquitectura:lugares-historicos:fauna-y-flora:simbolos-patrios:geografía:gracias"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>simbolos-patrios:phone>historia:phone>indenpendencia:phone>actualidad:phone>arte-cultural:phone>música:phone>carnaval:phone>fauna-y-flora:phone>geografía:phone>arquitectura:phone>lugares-historicos:phone>gastronomía:phone>contacto:phone>gracias:tablet>index:tablet>simbolos-patrios:tablet>historia:tablet>indenpendencia:tablet>actualidad:tablet>arte-cultural:tablet>música:tablet>carnaval:tablet>fauna-y-flora:tablet>geografía:tablet>arquitectura:tablet>lugares-historicos:tablet>gastronomía:tablet>contacto:tablet>gracias:index:historia:indenpendencia:contacto:actualidad:arte-cultural:gastronomía:música:carnaval:arquitectura:lugares-historicos:fauna-y-flora:simbolos-patrios:geografía:gracias"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="phone>index:phone>simbolos-patrios:phone>historia:phone>indenpendencia:phone>actualidad:phone>arte-cultural:phone>música:phone>carnaval:phone>fauna-y-flora:phone>geografía:phone>arquitectura:phone>lugares-historicos:phone>gastronomía:phone>contacto:phone>gracias:tablet>index:tablet>simbolos-patrios:tablet>historia:tablet>indenpendencia:tablet>actualidad:tablet>arte-cultural:tablet>música:tablet>carnaval:tablet>fauna-y-flora:tablet>geografía:tablet>arquitectura:tablet>lugares-historicos:tablet>gastronomía:tablet>contacto:tablet>gracias:index:historia:indenpendencia:contacto:actualidad:arte-cultural:gastronomía:música:carnaval:arquitectura:lugares-historicos:fauna-y-flora:simbolos-patrios:geografía:gracias"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>index:phone>historia:phone>actualidad:tablet>index:tablet>historia:tablet>actualidad:index:historia:actualidad"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>simbolos-patrios:phone>historia:phone>indenpendencia:phone>actualidad:phone>arte-cultural:phone>música:phone>carnaval:phone>fauna-y-flora:phone>geografía:phone>arquitectura:phone>lugares-historicos:phone>gastronomía:phone>contacto:phone>gracias:tablet>index:tablet>simbolos-patrios:tablet>historia:tablet>indenpendencia:tablet>actualidad:tablet>arte-cultural:tablet>música:tablet>carnaval:tablet>fauna-y-flora:tablet>geografía:tablet>arquitectura:tablet>lugares-historicos:tablet>gastronomía:tablet>contacto:tablet>gracias:index:historia:indenpendencia:contacto:actualidad:arte-cultural:gastronomía:música:carnaval:arquitectura:lugares-historicos:fauna-y-flora:simbolos-patrios:geografía:gracias"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>simbolos-patrios:phone>historia:phone>indenpendencia:phone>actualidad:phone>arte-cultural:phone>música:phone>carnaval:phone>fauna-y-flora:phone>geografía:phone>arquitectura:phone>lugares-historicos:phone>gastronomía:phone>contacto:phone>gracias:tablet>index:tablet>simbolos-patrios:tablet>historia:tablet>indenpendencia:tablet>actualidad:tablet>arte-cultural:tablet>música:tablet>carnaval:tablet>fauna-y-flora:tablet>geografía:tablet>arquitectura:tablet>lugares-historicos:tablet>gastronomía:tablet>contacto:tablet>gracias:index:historia:indenpendencia:contacto:actualidad:arte-cultural:gastronomía:música:carnaval:arquitectura:lugares-historicos:fauna-y-flora:simbolos-patrios:geografía:gracias"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>lugares-historicos:phone>contacto:tablet>lugares-historicos:tablet>contacto:contacto:lugares-historicos"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="phone>lugares-historicos:tablet>lugares-historicos:lugares-historicos"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="phone>lugares-historicos:tablet>lugares-historicos:lugares-historicos"/>
+    <file name="touchswipe.js" crc="3888935200" ref="phone>lugares-historicos:tablet>lugares-historicos:lugares-historicos"/>
+    <file name="form_check.php" crc="4108222811" ref="phone>contacto:tablet>contacto"/>
+    <file name="form_throttle.php" crc="503802655" ref="phone>contacto:tablet>contacto"/>
+    <file name="form_process.php" crc="260214869" ref="phone>contacto:tablet>contacto"/>
+    <file name="form-u11622.php" crc="3800124264" ref="phone>contacto"/>
+    <file name="form-u8557.php" crc="4013942693" ref="tablet>contacto"/>
+    <file name="form-u5981.php" crc="125290234" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="a-pág.-maestra-favicon.ico" crc="33380096" ref="phone>index"/>
+    <file name="barranquilla.jpg" crc="421304607" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="interior-favicon.ico" crc="33380096" ref="phone>simbolos-patrios:phone>música"/>
+    <file name="barrll760x723.jpg" crc="3792102731" ref="phone>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="ventana-del-mundo-barranquilla.jpg" crc="497587232" ref="phone>actualidad">
+      <caption webpage="actualidad" alt=""/>
+    </file>
+    <file name="carnaval 12262x174.jpg" crc="3821186019" seo="true" ref="phone>carnaval">
+      <caption webpage="carnaval" alt=""/>
+    </file>
+    <file name="carnaval 13228x152.jpg" crc="518580869" seo="true" ref="phone>carnaval">
+      <caption webpage="carnaval" alt=""/>
+    </file>
+    <file name="whatsapp image 2025-04-21 at 103555 am224x337.jpg" crc="216231001" seo="true" ref="phone>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="wp 3075x65.png" crc="4247101161" seo="true" ref="phone>contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="barrll.jpg" crc="4109254814" ref="tablet>historia:historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="ventana del mundo 2.jpg" crc="3869974701" ref="phone>lugares-historicos:lugares-historicos:tablet>actualidad">
+      <caption webpage="lugares-historicos" alt=""/>
+      <caption webpage="lugares-historicos" alt=""/>
+      <caption webpage="lugares-historicos" alt=""/>
+      <caption webpage="actualidad" alt=""/>
+    </file>
+    <file name="carnaval 13325x217.jpg" crc="45504618" seo="true" ref="tablet>carnaval">
+      <caption webpage="carnaval" alt=""/>
+    </file>
+    <file name="carnaval 12322x214.jpg" crc="481402462" seo="true" ref="tablet>carnaval">
+      <caption webpage="carnaval" alt=""/>
+    </file>
+    <file name="ecoparque-mallorquin.jpg" crc="3866682541" seo="true" ref="tablet>lugares-historicos:lugares-historicos:phone>lugares-historicos">
+      <caption webpage="lugares-historicos" alt=""/>
+    </file>
+    <file name="wp 30177x151.png" crc="3841402700" seo="true" ref="tablet>contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="wp 30.png" crc="4184178680" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="arroz-de-lisa.jpg" crc="113046385" seo="true" ref="gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="whatsapp image 2025-04-21 at 103555 am.jpg" crc="4164833671" seo="true" ref="gastronomía:tablet>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="arepas-de-huevo.jpg" crc="421799089" seo="true" ref="gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="carnaval 13.jpg" crc="456828760" seo="true" ref="carnaval">
+      <caption webpage="carnaval" alt=""/>
+    </file>
+    <file name="carnaval 12.jpg" crc="3897752184" seo="true" ref="carnaval">
+      <caption webpage="carnaval" alt=""/>
+    </file>
+    <file name="flora y fuana.png" crc="18940812" seo="true" ref="fauna-y-flora">
+      <caption webpage="fauna-y-flora" alt=""/>
+    </file>
+    <file name="logo 3.png" crc="3774665625" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frase 22.png" crc="3782818969" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo -2.png" crc="350048522" seo="true" ref="phone>simbolos-patrios:phone>historia:phone>indenpendencia:phone>actualidad:phone>arte-cultural:phone>música:phone>carnaval:phone>fauna-y-flora:phone>geografía:phone>arquitectura:phone>lugares-historicos:phone>gastronomía:phone>contacto:phone>gracias">
+      <caption webpage="fauna-y-flora" alt=""/>
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="simbolos-patrios" alt=""/>
+      <caption webpage="carnaval" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="geografía" alt=""/>
+      <caption webpage="arquitectura" alt=""/>
+      <caption webpage="indenpendencia" alt=""/>
+      <caption webpage="lugares-historicos" alt=""/>
+      <caption webpage="música" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="arte-cultural" alt=""/>
+      <caption webpage="actualidad" alt=""/>
+      <caption webpage="gracias" alt=""/>
+    </file>
+    <file name="bandera 1.jpg" crc="482020838" seo="true" ref="phone>simbolos-patrios:tablet>simbolos-patrios">
+      <caption webpage="simbolos-patrios" alt=""/>
+    </file>
+    <file name="escudo 2.png" crc="31581581" seo="true" ref="phone>simbolos-patrios:tablet>simbolos-patrios">
+      <caption webpage="simbolos-patrios" alt=""/>
+    </file>
+    <file name="flor cayena 1.jpg" crc="241339799" seo="true" ref="phone>simbolos-patrios">
+      <caption webpage="simbolos-patrios" alt=""/>
+    </file>
+    <file name="antigua barranquilla 12.jpg" crc="3804603504" seo="true" ref="phone>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="antigua barranquilla 22.jpg" crc="39426563" seo="true" ref="phone>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="epoca republicana movil.jpg" crc="4260928301" seo="true" ref="phone>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="pierre labatut 2.jpg" crc="3896243784" seo="true" ref="phone>indenpendencia">
+      <caption webpage="indenpendencia" alt=""/>
+    </file>
+    <file name="manuel rodríguez torices y quirós 2.jpg" crc="70818405" seo="true" ref="phone>indenpendencia">
+      <caption webpage="indenpendencia" alt=""/>
+    </file>
+    <file name="dizfras2.jpg" crc="4281852486" seo="true" ref="phone>arte-cultural">
+      <caption webpage="arte-cultural" alt=""/>
+    </file>
+    <file name="mb2.jpg" crc="52188808" seo="true" ref="phone>arte-cultural">
+      <caption webpage="arte-cultural" alt=""/>
+    </file>
+    <file name="museo 2.jpg" crc="3815556116" seo="true" ref="phone>arte-cultural">
+      <caption webpage="arte-cultural" alt=""/>
+    </file>
+    <file name="escupifuego3.jpg" crc="367270031" seo="true" ref="phone>arte-cultural">
+      <caption webpage="arte-cultural" alt=""/>
+    </file>
+    <file name="baile2.jpg" crc="463209489" seo="true" ref="phone>arte-cultural">
+      <caption webpage="arte-cultural" alt=""/>
+    </file>
+    <file name="aleta-de-tiburon-tour-barranquilla 12.jpg" crc="509479174" seo="true" ref="phone>lugares-historicos:tablet>lugares-historicos:lugares-historicos">
+      <caption webpage="lugares-historicos" alt=""/>
+    </file>
+    <file name="museo-del-carnaval-barranquilla-1 12.jpg" crc="454072038" seo="true" ref="phone>lugares-historicos:tablet>lugares-historicos:lugares-historicos">
+      <caption webpage="lugares-historicos" alt=""/>
+    </file>
+    <file name="casa-prado-barranquilla6 62.jpg" crc="182907297" seo="true" ref="phone>lugares-historicos:tablet>lugares-historicos:lugares-historicos">
+      <caption webpage="lugares-historicos" alt=""/>
+    </file>
+    <file name="aleta-de-tiburon-tour-barranquilla 10-crop-u12911.jpg" crc="39748452" seo="true" ref="phone>lugares-historicos">
+      <caption webpage="lugares-historicos" alt=""/>
+    </file>
+    <file name="ventana del mundo 21.jpg" crc="479455838" seo="true" ref="phone>lugares-historicos:tablet>lugares-historicos:lugares-historicos">
+      <caption webpage="lugares-historicos" alt=""/>
+    </file>
+    <file name="ecoparque-mallorquin 10.jpg" crc="4123242749" seo="true" ref="phone>lugares-historicos:tablet>lugares-historicos:lugares-historicos">
+      <caption webpage="lugares-historicos" alt=""/>
+    </file>
+    <file name="museo-del-carnaval-barranquilla-1 11.jpg" crc="191300844" seo="true" ref="phone>lugares-historicos:tablet>lugares-historicos:lugares-historicos">
+      <caption webpage="lugares-historicos" alt=""/>
+    </file>
+    <file name="casa-prado-barranquilla6 61356x285.jpg" crc="31909749" seo="true" ref="phone>lugares-historicos">
+      <caption webpage="lugares-historicos" alt=""/>
+    </file>
+    <file name="logo 0.png" crc="4219996063" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frase 21.png" crc="3883510560" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo 2.png" crc="4279825801" seo="true" ref="tablet>simbolos-patrios:tablet>historia:tablet>indenpendencia:tablet>actualidad:tablet>arte-cultural:tablet>música:tablet>carnaval:tablet>fauna-y-flora:tablet>geografía:tablet>arquitectura:tablet>lugares-historicos:tablet>gastronomía:tablet>contacto:tablet>gracias">
+      <caption webpage="fauna-y-flora" alt=""/>
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="simbolos-patrios" alt=""/>
+      <caption webpage="carnaval" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="geografía" alt=""/>
+      <caption webpage="arquitectura" alt=""/>
+      <caption webpage="indenpendencia" alt=""/>
+      <caption webpage="lugares-historicos" alt=""/>
+      <caption webpage="música" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="arte-cultural" alt=""/>
+      <caption webpage="actualidad" alt=""/>
+      <caption webpage="gracias" alt=""/>
+    </file>
+    <file name="flor cayena 2.jpg" crc="3781802719" seo="true" ref="tablet>simbolos-patrios:simbolos-patrios">
+      <caption webpage="simbolos-patrios" alt=""/>
+    </file>
+    <file name="antigua barranquilla 1 tablet.jpg" crc="4016856667" seo="true" ref="tablet>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="antigua barranquilla 2 tablet.jpg" crc="478244647" seo="true" ref="tablet>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="epoca republicana - tablet.jpg" crc="414455165" seo="true" ref="tablet>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="pierre labatut 1.jpg" crc="176768880" seo="true" ref="tablet>indenpendencia:indenpendencia">
+      <caption webpage="indenpendencia" alt=""/>
+    </file>
+    <file name="manuel rodríguez torices y quirós 1.jpg" crc="3898754759" seo="true" ref="tablet>indenpendencia:indenpendencia">
+      <caption webpage="indenpendencia" alt=""/>
+    </file>
+    <file name="ventana del mundo 22.jpg" crc="150735511" ref="actualidad:tablet>lugares-historicos" seo="true">
+      <caption webpage="actualidad" alt=""/>
+      <caption webpage="actualidad" alt=""/>
+      <caption webpage="lugares-historicos" alt=""/>
+    </file>
+    <file name="dizfras1.jpg" crc="4292592427" seo="true" ref="tablet>arte-cultural">
+      <caption webpage="arte-cultural" alt=""/>
+    </file>
+    <file name="mb1.jpg" crc="3891710732" seo="true" ref="tablet>arte-cultural">
+      <caption webpage="arte-cultural" alt=""/>
+    </file>
+    <file name="museo 3.jpg" crc="159817960" seo="true" ref="tablet>arte-cultural">
+      <caption webpage="arte-cultural" alt=""/>
+    </file>
+    <file name="escupifuego2.jpg" crc="4152411743" seo="true" ref="tablet>arte-cultural">
+      <caption webpage="arte-cultural" alt=""/>
+    </file>
+    <file name="baile1.jpg" crc="200676936" seo="true" ref="tablet>arte-cultural">
+      <caption webpage="arte-cultural" alt=""/>
+    </file>
+    <file name="aleta-de-tiburon-tour-barranquilla 10-crop-u12769.jpg" crc="39748452" seo="true" ref="tablet>lugares-historicos">
+      <caption webpage="lugares-historicos" alt=""/>
+    </file>
+    <file name="casa-prado-barranquilla6 61.jpg" crc="330844728" seo="true" ref="tablet>lugares-historicos:lugares-historicos">
+      <caption webpage="lugares-historicos" alt=""/>
+    </file>
+    <file name="arepas-de-huevo466x233.jpg" crc="227882036" seo="true" ref="tablet>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="frase 23.png" crc="333925214" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo 1.png" crc="3823951624" seo="true" ref="historia:indenpendencia:contacto:actualidad:arte-cultural:gastronomía:música:carnaval:arquitectura:lugares-historicos:fauna-y-flora:simbolos-patrios:geografía:gracias">
+      <caption webpage="geografía" alt=""/>
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="simbolos-patrios" alt=""/>
+      <caption webpage="carnaval" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="fauna-y-flora" alt=""/>
+      <caption webpage="arquitectura" alt=""/>
+      <caption webpage="indenpendencia" alt=""/>
+      <caption webpage="lugares-historicos" alt=""/>
+      <caption webpage="música" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="arte-cultural" alt=""/>
+      <caption webpage="actualidad" alt=""/>
+      <caption webpage="gracias" alt=""/>
+    </file>
+    <file name="antigua barranquilla 11.jpg" crc="3996596999" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="antigua barranquilla 21.jpg" crc="4061594823" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="epoca republicana 1.jpg" crc="4216046743" seo="true" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="dizfras.jpg" crc="4140093895" seo="true" ref="arte-cultural">
+      <caption webpage="arte-cultural" alt=""/>
+    </file>
+    <file name="mb.jpg" crc="245802368" seo="true" ref="arte-cultural">
+      <caption webpage="arte-cultural" alt=""/>
+    </file>
+    <file name="museo 1.jpg" crc="3953772879" seo="true" ref="arte-cultural">
+      <caption webpage="arte-cultural" alt=""/>
+    </file>
+    <file name="escupifuego.jpg" crc="166388093" seo="true" ref="arte-cultural">
+      <caption webpage="arte-cultural" alt=""/>
+    </file>
+    <file name="baile.jpg" crc="422086207" seo="true" ref="arte-cultural">
+      <caption webpage="arte-cultural" alt=""/>
+    </file>
+    <file name="aleta-de-tiburon-tour-barranquilla 10-crop-u5231.jpg" crc="39748452" seo="true" ref="lugares-historicos">
+      <caption webpage="lugares-historicos" alt=""/>
+    </file>
+    <file name="bandera 2.jpg" crc="440834883" seo="true" ref="simbolos-patrios">
+      <caption webpage="simbolos-patrios" alt=""/>
+    </file>
+    <file name="escudo 1.png" crc="441755662" seo="true" ref="simbolos-patrios">
+      <caption webpage="simbolos-patrios" alt=""/>
+    </file>
+    <file name="music 2.jpg" crc="289000608" seo="true" ref="phone>música:tablet>música">
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="vallenato 1.jpg" crc="520948143" seo="true" ref="phone>música">
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="choke1.jpg" crc="3783288307" seo="true" ref="phone>música">
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="flora y fuana2.png" crc="4249544222" seo="true" ref="phone>fauna-y-flora">
+      <caption webpage="fauna-y-flora" alt=""/>
+    </file>
+    <file name="lp 3.jpg" crc="3985255832" seo="true" ref="phone>arquitectura">
+      <caption webpage="arquitectura" alt=""/>
+    </file>
+    <file name="rutas-patrimoniales-para-descubrir-sitios-iconicos-de-barranquilla 4.jpg" crc="281582748" seo="true" ref="phone>arquitectura">
+      <caption webpage="arquitectura" alt=""/>
+    </file>
+    <file name="r 2.jpg" crc="40765871" seo="true" ref="phone>arquitectura">
+      <caption webpage="arquitectura" alt=""/>
+    </file>
+    <file name="arroz-de-lisa2.jpg" crc="3983451856" seo="true" ref="phone>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="arepas-de-huevo1.jpg" crc="4292842084" seo="true" ref="phone>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="vallenato.jpg" crc="4069244935" seo="true" ref="tablet>música:música">
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="choke.jpg" crc="191173923" seo="true" ref="tablet>música:música">
+      <caption webpage="música" alt=""/>
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="flora y fuana1.png" crc="3857488894" seo="true" ref="tablet>fauna-y-flora">
+      <caption webpage="fauna-y-flora" alt=""/>
+    </file>
+    <file name="lp 2.jpg" crc="4004423609" seo="true" ref="tablet>arquitectura">
+      <caption webpage="arquitectura" alt=""/>
+    </file>
+    <file name="r 3.jpg" crc="262149889" seo="true" ref="tablet>arquitectura">
+      <caption webpage="arquitectura" alt=""/>
+    </file>
+    <file name="rutas-patrimoniales-para-descubrir-sitios-iconicos-de-barranquilla 3.jpg" crc="272119666" seo="true" ref="tablet>arquitectura">
+      <caption webpage="arquitectura" alt=""/>
+    </file>
+    <file name="arroz-de-lisa1.jpg" crc="87724478" seo="true" ref="tablet>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="music.jpg" crc="401883804" seo="true" ref="música">
+      <caption webpage="música" alt=""/>
+    </file>
+    <file name="lp.jpg" crc="516392478" seo="true" ref="arquitectura">
+      <caption webpage="arquitectura" alt=""/>
+    </file>
+    <file name="rutas-patrimoniales-para-descubrir-sitios-iconicos-de-barranquilla 2.jpg" crc="494871087" seo="true" ref="arquitectura">
+      <caption webpage="arquitectura" alt=""/>
+    </file>
+    <file name="r 1.jpg" crc="230724315" seo="true" ref="arquitectura">
+      <caption webpage="arquitectura" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_interior.css" crc="375346932" ref="tablet>lugares-historicos:tablet>arquitectura:tablet>gastronomía:tablet>simbolos-patrios:tablet>contacto:tablet>historia:tablet>gracias:tablet>indenpendencia:tablet>actualidad:tablet>arte-cultural:tablet>carnaval:tablet>música:tablet>fauna-y-flora:tablet>geografía"/>
+      <file name="master_a-p_g_-maestra.css" crc="3977935865" ref="tablet>index"/>
+      <file name="lugares-historicos.css" crc="287177644" ref="tablet>lugares-historicos"/>
+      <file name="index.css" crc="3923355678" ref="tablet>index"/>
+      <file name="arquitectura.css" crc="4015317867" ref="tablet>arquitectura"/>
+      <file name="gastronom_a.css" crc="125992615" ref="tablet>gastronomía"/>
+      <file name="simbolos-patrios.css" crc="135788008" ref="tablet>simbolos-patrios"/>
+      <file name="contacto.css" crc="3802768511" ref="tablet>contacto"/>
+      <file name="historia.css" crc="4063916228" ref="tablet>historia"/>
+      <file name="gracias.css" crc="3802698316" ref="tablet>gracias"/>
+      <file name="indenpendencia.css" crc="182183876" ref="tablet>indenpendencia"/>
+      <file name="actualidad.css" crc="4197352641" ref="tablet>actualidad"/>
+      <file name="arte-cultural.css" crc="396418526" ref="tablet>arte-cultural"/>
+      <file name="carnaval.css" crc="365948091" ref="tablet>carnaval"/>
+      <file name="m_sica.css" crc="4218494902" ref="tablet>música"/>
+      <file name="fauna-y-flora.css" crc="88939934" ref="tablet>fauna-y-flora"/>
+      <file name="geograf_a.css" crc="3804852089" ref="tablet>geografía"/>
+    </folder>
+    <file name="index.html" crc="519100278" seo="true" mt="1747775921688" redirect="true"/>
+    <file name="simbolos-patrios.html" crc="3905346011" seo="true" mt="1747779198874" redirect="true"/>
+    <file name="historia.html" crc="4239624565" seo="true" mt="1747779198874" redirect="true"/>
+    <file name="indenpendencia.html" crc="4080656846" seo="true" mt="1747779198874" redirect="true"/>
+    <file name="actualidad.html" crc="365273077" seo="true" mt="1747779198874" redirect="true"/>
+    <file name="arte-cultural.html" crc="471588887" seo="true" mt="1747779198874" redirect="true"/>
+    <file name="música.html" crc="4088478797" seo="true" mt="1747851003165" redirect="true"/>
+    <file name="carnaval.html" crc="180011780" seo="true" mt="1747779198874" redirect="true"/>
+    <file name="fauna-y-flora.html" crc="242945360" seo="true" mt="1747853951415" redirect="true"/>
+    <file name="geografía.html" crc="4062350174" seo="true" mt="1747779198874" redirect="true"/>
+    <file name="arquitectura.html" crc="3759400327" seo="true" mt="1747780052533" redirect="true"/>
+    <file name="lugares-historicos.html" crc="344712772" seo="true" mt="1747779198874" redirect="true"/>
+    <file name="gastronomía.html" crc="141916207" seo="true" mt="1747851670471" redirect="true"/>
+    <file name="contacto.html" crc="12422745" seo="true" mt="1747779198874" redirect="true"/>
+    <file name="gracias.html" crc="4266247540" seo="true" mt="1747779198874" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_interior.css" crc="4093688135" ref="phone>indenpendencia:phone>historia:phone>simbolos-patrios:phone>gracias:phone>contacto:phone>geografía:phone>gastronomía:phone>fauna-y-flora:phone>carnaval:phone>música:phone>arte-cultural:phone>arquitectura:phone>actualidad:phone>lugares-historicos"/>
+      <file name="master_a-p_g_-maestra.css" crc="3777090526" ref="phone>index"/>
+      <file name="indenpendencia.css" crc="336624802" ref="phone>indenpendencia"/>
+      <file name="historia.css" crc="3924038282" ref="phone>historia"/>
+      <file name="simbolos-patrios.css" crc="3971369164" ref="phone>simbolos-patrios"/>
+      <file name="gracias.css" crc="56600258" ref="phone>gracias"/>
+      <file name="index.css" crc="4136260941" ref="phone>index"/>
+      <file name="contacto.css" crc="308799506" ref="phone>contacto"/>
+      <file name="geograf_a.css" crc="4144706681" ref="phone>geografía"/>
+      <file name="gastronom_a.css" crc="4153536125" ref="phone>gastronomía"/>
+      <file name="fauna-y-flora.css" crc="425898256" ref="phone>fauna-y-flora"/>
+      <file name="carnaval.css" crc="480558936" ref="phone>carnaval"/>
+      <file name="m_sica.css" crc="4199730855" ref="phone>música"/>
+      <file name="arte-cultural.css" crc="3823368779" ref="phone>arte-cultural"/>
+      <file name="arquitectura.css" crc="342023151" ref="phone>arquitectura"/>
+      <file name="actualidad.css" crc="219764633" ref="phone>actualidad"/>
+      <file name="lugares-historicos.css" crc="3862186811" ref="phone>lugares-historicos"/>
+    </folder>
+    <file name="index.html" crc="49469717" seo="true" mt="1747776091795" redirect="true"/>
+    <file name="simbolos-patrios.html" crc="3933827835" seo="true" mt="1747776986603" redirect="true"/>
+    <file name="historia.html" crc="4269379312" seo="true" mt="1747776267236" redirect="true"/>
+    <file name="indenpendencia.html" crc="4208736653" seo="true" mt="1747777370762" redirect="true"/>
+    <file name="actualidad.html" crc="4024877798" seo="true" mt="1747776267236" redirect="true"/>
+    <file name="arte-cultural.html" crc="4195753895" seo="true" mt="1747778613675" redirect="true"/>
+    <file name="música.html" crc="3943205109" seo="true" mt="1747851057909" redirect="true"/>
+    <file name="carnaval.html" crc="257170146" seo="true" mt="1747776267236" redirect="true"/>
+    <file name="fauna-y-flora.html" crc="453851603" seo="true" mt="1747854113748" redirect="true"/>
+    <file name="geografía.html" crc="4134981170" seo="true" mt="1747776267236" redirect="true"/>
+    <file name="arquitectura.html" crc="153533490" seo="true" mt="1747780037030" redirect="true"/>
+    <file name="lugares-historicos.html" crc="4127962421" seo="true" mt="1747776267236" redirect="true"/>
+    <file name="gastronomía.html" crc="73225306" seo="true" mt="1747851535226" redirect="true"/>
+    <file name="contacto.html" crc="246491984" seo="true" mt="1747776267236" redirect="true"/>
+    <file name="gracias.html" crc="3908828748" seo="true" mt="1747780245790" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="352503539" seo="true" mt="1747775675575" redirect="true"/>
+  <file name="historia.html" crc="3950169103" seo="true" mt="1747775757012" redirect="true"/>
+  <file name="indenpendencia.html" crc="212810669" seo="true" mt="1747777288367" redirect="true"/>
+  <file name="contacto.html" crc="51517174" seo="true" mt="1747775757012" redirect="true"/>
+  <file name="actualidad.html" crc="4011432434" seo="true" mt="1747775757012" redirect="true"/>
+  <file name="arte-cultural.html" crc="4103560492" seo="true" mt="1747778540360" redirect="true"/>
+  <file name="gastronomía.html" crc="139305386" seo="true" mt="1747851417641" redirect="true"/>
+  <file name="música.html" crc="424794173" seo="true" mt="1747851012697" redirect="true"/>
+  <file name="carnaval.html" crc="3839359736" seo="true" mt="1747775757012" redirect="true"/>
+  <file name="arquitectura.html" crc="379780694" seo="true" mt="1747780064920" redirect="true"/>
+  <file name="lugares-historicos.html" crc="3792281451" seo="true" mt="1747775757012" redirect="true"/>
+  <file name="fauna-y-flora.html" crc="511145734" seo="true" mt="1747854081958" redirect="true"/>
+  <file name="simbolos-patrios.html" crc="3943772716" seo="true" mt="1747776891489" redirect="true"/>
+  <file name="geografía.html" crc="85229594" seo="true" mt="1747775757012" redirect="true"/>
+  <file name="gracias.html" crc="280691438" seo="true" mt="1747775757012" redirect="true"/>
+</manifest>
